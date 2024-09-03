@@ -1,0 +1,6 @@
+package com.breezenishantpoly.features.survey
+
+
+interface GroupNameOnClick {
+    fun grOnClick(data: String)
+}
